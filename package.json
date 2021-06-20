@@ -1,0 +1,32 @@
+{
+  "name": "js_packages_security_test",
+  "version": "0.0.1",
+  "description": "this is a test packages for npm security",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx babel src --out-dir compiled"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seng1e/js_packages_security_test.git"
+  },
+  "keywords": [
+    "security_test",
+    "javascript"
+  ],
+  "author": "seng1e <pyymine@gmail.com>(https://github.com/seng1e)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seng1e/js_packages_security_test/issues"
+  },
+  "homepage": "https://github.com/seng1e/js_packages_security_test#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.14.5",
+    "@babel/core": "^7.14.6",
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "@babel/preset-env": "^7.14.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
