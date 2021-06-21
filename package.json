@@ -1,6 +1,6 @@
 {
   "name": "js_packages_security_test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "this is a test packages for npm security",
   "main": "index.js",
   "scripts": {
